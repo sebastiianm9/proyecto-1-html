@@ -70,6 +70,15 @@ nav > ul {
     padding: 10px;
   }
 
+  .video{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    padding: 10px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
   .contenido{
     font-family: 'Montserrat', sans-serif;
     padding: 10px;
